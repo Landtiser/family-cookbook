@@ -1,4 +1,5 @@
 <template>
+<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <nav class="scrim-bg fixed z-40 top-0 inset-x-0 pt-3 px-3" aria-label="Main Menu">
     <ul class="flex">
       <li class="flex-1">
